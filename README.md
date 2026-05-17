@@ -71,8 +71,3 @@ The focus is on understanding the forward pass, loss calculation, backpropagatio
 - **Activation Functions:** Introduce non‑linearity; essential for learning complex patterns.  
 - **Learning Rate:** Too high → unstable convergence; too low → slow learning.  
 - **Overfitting vs Underfitting:** Deeper networks improved accuracy but risked overfitting.
-
----
-
-## 📦 Requirements
-See `requirements.txt`:
