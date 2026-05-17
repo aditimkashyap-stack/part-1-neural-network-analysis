@@ -1,0 +1,15 @@
+# Core scientific and data libraries
+numpy
+pandas
+scikit-learn
+
+# Deep learning framework
+tensorflow
+keras
+
+# Visualization and reporting
+matplotlib
+seaborn
+
+# Optional utilities (recommended)
+jupyterlab
