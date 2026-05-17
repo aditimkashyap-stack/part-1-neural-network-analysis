@@ -1,0 +1,5 @@
+﻿Experiment,Hidden Layers,Neurons,Learning Rate,Epochs,Test Accuracy,Notes
+Baseline,2,32/16,0.001,20,0.82,Balanced
+Exp 1,3,64/32/16,0.001,30,0.84,Slight improvement
+Exp 2,2,32/16,0.01,20,0.78,"Too high LR, unstable"
+Exp 3,2,16/8,0.001,20,0.79,Underfitting
