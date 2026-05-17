@@ -6,7 +6,7 @@ The focus is on understanding the forward pass, loss calculation, backpropagatio
 
 ---
 
-##  Dataset
+##  Dataset : https://drive.google.com/drive/folders/1akV6po4Nrgkc3yQrJkzA6cJlV-wBvUYs?usp=sharing
 - **File:** `customer_churn_nn.csv`  
 - **Records:** ~350 customers  
 - **Features:**  
